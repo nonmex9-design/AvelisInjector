@@ -20,7 +20,7 @@
 <p><strong>Injection:</strong></p>
 
 <p>
-  <img src="/assets/soon.png" width="450" alt="Avelis UI" style="border: 1px solid #646464; border-radius: 50px;">
+  <img src="/assets/soonn.png" width="450" alt="Avelis UI" style="border: 1px solid #646464; border-radius: 50px;">
 </p>
 
 <hr style="margin: 12px 0; border: 0; border-top: 1px solid rgba(44, 44, 44, 0.3);">

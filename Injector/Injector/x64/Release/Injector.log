@@ -1,0 +1,7 @@
+﻿  Injector.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 629 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Injector.vcxproj -> C:\Users\Student\source\repos\Injector\x64\Release\vagrpgbe.exe
+  C:\Users\Student\source\repos\Injector\x64\Release\vagrpgbe.exe: message: deploying dependencies

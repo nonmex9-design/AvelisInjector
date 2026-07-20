@@ -25,8 +25,6 @@
 
 <hr style="margin: 12px 0; border: 0; border-top: 1px solid rgba(44, 44, 44, 0.3);">
 
-Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.
-
 ## ⚠️ DISCLAIMER
 
 **THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY.**

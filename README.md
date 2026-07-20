@@ -26,3 +26,17 @@
 <hr style="margin: 12px 0; border: 0; border-top: 1px solid rgba(44, 44, 44, 0.3);">
 
 Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.
+
+## ⚠️ DISCLAIMER
+
+**THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY.**
+
+- **No Affiliation**: Avelis's Injector is not affiliated with, endorsed by, sponsored by, or associated with Roblox Corporation or any of its subsidiaries.
+- **No Warranty**: This tool is provided "as is", without any warranty of any kind. Use at your own risk.
+- **User Responsibility**: By using this software, you acknowledge and agree that:
+  - You are solely responsible for ensuring your use complies with all applicable laws and the terms of service of any third‑party platforms (including Roblox).
+  - The author(s) are not liable for any damages, account bans, or legal consequences arising from the use or misuse of this tool.
+- **No Cheating Endorsement**: This project does not promote or encourage cheating, hacking, or unfair gameplay. It is intended for security research, reverse‑engineering education, and personal experimentation in controlled environments.
+- **Intellectual Property**: All trademarks and registered names are the property of their respective owners.
+
+**If you do not agree to these terms, please do not download, compile, or use this software.**

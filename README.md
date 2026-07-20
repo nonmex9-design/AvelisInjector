@@ -15,7 +15,7 @@
 
 > #### SECOND NOTE: The Injector works perfectly fine just the executor is broken at this moment, Avelis 1.1.4 is coming soon with everything fixed.
 
-> #### <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle"> THIRD NOTE: Every version of the Injector will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source.
+> #### <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle"> THIRD NOTE: Every version of the Injector will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated but the Injector is made in C++ so just find a way to get the source but me, idk. 
 
 <p><strong>Injection:</strong></p>
 

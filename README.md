@@ -17,7 +17,7 @@
 
 > #### <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle"> THIRD NOTE: Every version of the Injector will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source.
 
-<p><strong>UI Image:</strong></p>
+<p><strong>Injection:</strong></p>
 
 <p>
   <img src="/assets/ui.png" width="450" alt="Avelis UI" style="border: 1px solid #e1e4e8; border-radius: 8px;">

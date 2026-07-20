@@ -9,11 +9,13 @@
 
 <h3>It is open-source, and I already have it pre-compiled in <strong>Releases</strong> if you want to try it out. <img src="https://cdn.discordapp.com/emojis/1503899945151893636.webp?size=40" width="32" valign="middle"></h3>
 
-Pre-Compiled 1.0.0
+[Pre-Compiled 1.0.0](https://github.com/nonmex9-design/AvelisInjector/releases/tag/P1.0.0)
 
-> #### NOTE: The Injector works perfectly fine just the executor is broken at this moment, Avelis 1.1.4 is coming soon with everything fixed.
+> #### NOTE: To use the Injector, look for "AvelisDLL" and rename it to whatever ur dll name is, so if its example.dll then rename it to exampleDLL
 
-> #### <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle"> SECOND NOTE: Every version of the Injector will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source.
+> #### SECOND NOTE: The Injector works perfectly fine just the executor is broken at this moment, Avelis 1.1.4 is coming soon with everything fixed.
+
+> #### <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle"> THIRD NOTE: Every version of the Injector will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source.
 
 <p><strong>UI Image:</strong></p>
 
